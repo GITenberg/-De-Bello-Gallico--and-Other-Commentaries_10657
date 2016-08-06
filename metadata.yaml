@@ -1,0 +1,53 @@
+_repo: -De-Bello-Gallico--and-Other-Commentaries_10657
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - Quincy, Thomas de
+    - DeQuincey, Thomas
+    - Kvinsi, Tomas de
+    - Quincey, Thomas de
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+  translator:
+    agent_name: McDevitte, W. A. (William Alexander)
+    alias: McDevitte, William Alexander
+    gutenberg_agent_id: '37952'
+    url: http://www.gutenberg.org/2009/agents/37952
+creator:
+  author:
+    agent_name: Caesar, Julius
+    aliases:
+    - Cesare, Caio Giulio
+    - Cesare, Gaio Giulio
+    - Caesar, Caius Julius
+    - Cesare, C. Iulio (Caio Iulio)
+    - Caesar, Gaius Julius
+    - Cesare, C. Julio (Caio Julio)
+    birthdate: -100
+    deathdate: -44
+    gutenberg_agent_id: '3621'
+    url: http://www.gutenberg.org/2009/agents/3621
+    wikipedia: http://en.wikipedia.org/wiki/Julius_Caesar
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gaul -- History -- Gallic Wars, 58-51 B.C.'
+- !lcc 'PA'
+- !lcsh 'Rome -- History -- Civil War, 49-48 B.C.'
+- GITenberg
+tableOfContents: The war in Gaul -- The civil war.
+title: '"De Bello Gallico" and Other Commentaries'
+url: http://www.gutenberg.org/ebooks/10657
