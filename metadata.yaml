@@ -1,5 +1,5 @@
 _repo: -De-Bello-Gallico--and-Other-Commentaries_10657
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: De Quincey, Thomas
@@ -18,6 +18,9 @@ contributor:
     alias: McDevitte, William Alexander
     gutenberg_agent_id: '37952'
     url: http://www.gutenberg.org/2009/agents/37952
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Caesar, Julius
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3621
     wikipedia: http://en.wikipedia.org/wiki/Julius_Caesar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10657#-De-Bello-Gallico--and-Other-Commentaries
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
